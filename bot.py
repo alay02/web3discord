@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import json
 from web3 import Web3
 import etherscan
-#sodgnj
+
 #just loading shit
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
